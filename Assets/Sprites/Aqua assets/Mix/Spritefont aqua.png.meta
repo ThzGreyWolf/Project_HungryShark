@@ -1,0 +1,983 @@
+fileFormatVersion: 2
+guid: 993da0126efde61458ab850d2455dc41
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Spritefont aqua_0
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 759
+        width: 102
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 361ca9ef0f6c6884f92071692f3d4b28
+      internalID: -1869782282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritefont aqua_1
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 760
+        width: 95
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 305523f178d1f4543b94a2564651e01e
+      internalID: 126154771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritefont aqua_2
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 754
+        width: 100
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac82d9f5c8b45974781e5a1a602400c6
+      internalID: 2071943099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritefont aqua_3
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 751
+        width: 111
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5e753060da871f4e984884a9b36d9a3
+      internalID: -38608036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritefont aqua_4
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 739
+        width: 107
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00093097285ed414daf159305ee026ca
+      internalID: 2065168558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritefont aqua_5
+      rect:
+        serializedVersion: 2
+        x: 878
+        y: 751
+        width: 97
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad07efa842de71d47bcfe387e248f19d
+      internalID: -192541733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritefont aqua_6
+      rect:
+        serializedVersion: 2
+        x: 1015
+        y: 755
+        width: 102
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dddf8829032fd23489e8fcafe63ef02b
+      internalID: 1343845863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritefont aqua_7
+      rect:
+        serializedVersion: 2
+        x: 1182
+        y: 753
+        width: 112
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f10091781e3b6145827dd112e6d4194
+      internalID: 848360535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritefont aqua_8
+      rect:
+        serializedVersion: 2
+        x: 1339
+        y: 756
+        width: 66
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 162f467f13ef6f640b18db7fb52c27e1
+      internalID: -1880424905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritefont aqua_9
+      rect:
+        serializedVersion: 2
+        x: 1472
+        y: 749
+        width: 81
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 387045212c89d5848b5c62a28cc8e86a
+      internalID: 502351245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritefont aqua_10
+      rect:
+        serializedVersion: 2
+        x: 1629
+        y: 745
+        width: 105
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de36e88fcbe863a4187c64916f088479
+      internalID: 623630598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritefont aqua_11
+      rect:
+        serializedVersion: 2
+        x: 1801
+        y: 748
+        width: 91
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 745ce8f731bc8fe45ae484ead4e0add6
+      internalID: -1720509020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritefont aqua_12
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 585
+        width: 143
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a19d7d8f1feddd458677503c0ef8594
+      internalID: 2056401230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritefont aqua_13
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 588
+        width: 118
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37606b1150a146b45a757a0d9aa06cff
+      internalID: 1358012778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritefont aqua_14
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 584
+        width: 113
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ac91a89aac0dfe43b1493b1e2cad101
+      internalID: -513134366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritefont aqua_15
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 583
+        width: 98
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cc4284d54a616146934ae51f4b9c158
+      internalID: -363869148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritefont aqua_16
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 585
+        width: 124
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28ef44511566c1141966e3bf3a7b117a
+      internalID: 1558229349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritefont aqua_17
+      rect:
+        serializedVersion: 2
+        x: 1065
+        y: 583
+        width: 100
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccf42a01c4a7a9749940c1ebfb8f76ba
+      internalID: -1371794806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritefont aqua_18
+      rect:
+        serializedVersion: 2
+        x: 1254
+        y: 589
+        width: 98
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bb831ccb92922a4eb90b2d1dc9cb696
+      internalID: -1962641119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritefont aqua_19
+      rect:
+        serializedVersion: 2
+        x: 1431
+        y: 591
+        width: 113
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc410daf9448c434f9a246d107fc0a25
+      internalID: 1035531462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritefont aqua_20
+      rect:
+        serializedVersion: 2
+        x: 1628
+        y: 598
+        width: 108
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7f3ca786dfb0144c89c59f1a9a90bc6
+      internalID: -1046088542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritefont aqua_21
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 419
+        width: 110
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d820b0dadc7e0c841bedfd06503df99c
+      internalID: 1853327588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritefont aqua_22
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 419
+        width: 135
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a302184d6287a494bb1037a194020d47
+      internalID: 1327048890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritefont aqua_23
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 420
+        width: 108
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9de41b1920f58e46b225abda9d8059c
+      internalID: -1656274991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritefont aqua_24
+      rect:
+        serializedVersion: 2
+        x: 1048
+        y: 422
+        width: 103
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30f6b98e14f6d5142b375258591f1d70
+      internalID: 611774457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritefont aqua_25
+      rect:
+        serializedVersion: 2
+        x: 1269
+        y: 426
+        width: 110
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a6de8bfbde4b9e4b8791f07e81d62b4
+      internalID: -211735002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritefont aqua_26
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 256
+        width: 80
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 454f3ae9b277be448bc9ac0c63f74c4f
+      internalID: -1382875543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritefont aqua_27
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 257
+        width: 109
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45d50c940f1f2ea43896061fbc4f353d
+      internalID: -1588001232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritefont aqua_28
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 252
+        width: 90
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2bf0feda02170446a151ee24af62fad
+      internalID: -139196737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritefont aqua_29
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 244
+        width: 107
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74bd3d4c986ac2b41a116c2a35e103be
+      internalID: 475538588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritefont aqua_30
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 246
+        width: 92
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a183ff674cfe9d4fbde245b43ad32cd
+      internalID: -436059904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritefont aqua_31
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 258
+        width: 94
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a678743ec1f650649b59d6cd146acde2
+      internalID: -325746286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritefont aqua_32
+      rect:
+        serializedVersion: 2
+        x: 981
+        y: 251
+        width: 92
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77fff117630a2a44193d929fa81a37fc
+      internalID: 1852517474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritefont aqua_33
+      rect:
+        serializedVersion: 2
+        x: 1142
+        y: 256
+        width: 92
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e25b4af50024a674dbad200c5f1fced7
+      internalID: -1154492174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritefont aqua_34
+      rect:
+        serializedVersion: 2
+        x: 1291
+        y: 256
+        width: 91
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e288785303ee55c49b0decd191b7a185
+      internalID: -752217550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritefont aqua_35
+      rect:
+        serializedVersion: 2
+        x: 1437
+        y: 254
+        width: 107
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6aec07a7cfe7fb34ea8fdde3d507b311
+      internalID: 2015191721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritefont aqua_36
+      rect:
+        serializedVersion: 2
+        x: 1607
+        y: 244
+        width: 56
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9729e840443956845a73276dc732e51f
+      internalID: 12819412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritefont aqua_37
+      rect:
+        serializedVersion: 2
+        x: 1757
+        y: 239
+        width: 83
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 241739e06245b0b4681b4262b0d51abb
+      internalID: -1323616695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Spritefont aqua_0: -1869782282
+      Spritefont aqua_29: 475538588
+      Spritefont aqua_30: -436059904
+      Spritefont aqua_32: 1852517474
+      Spritefont aqua_4: 2065168558
+      Spritefont aqua_16: 1558229349
+      Spritefont aqua_31: -325746286
+      Spritefont aqua_35: 2015191721
+      Spritefont aqua_5: -192541733
+      Spritefont aqua_24: 611774457
+      Spritefont aqua_34: -752217550
+      Spritefont aqua_8: -1880424905
+      Spritefont aqua_19: 1035531462
+      Spritefont aqua_25: -211735002
+      Spritefont aqua_18: -1962641119
+      Spritefont aqua_37: -1323616695
+      Spritefont aqua_28: -139196737
+      Spritefont aqua_2: 2071943099
+      Spritefont aqua_13: 1358012778
+      Spritefont aqua_33: -1154492174
+      Spritefont aqua_36: 12819412
+      Spritefont aqua_10: 623630598
+      Spritefont aqua_3: -38608036
+      Spritefont aqua_17: -1371794806
+      Spritefont aqua_6: 1343845863
+      Spritefont aqua_7: 848360535
+      Spritefont aqua_12: 2056401230
+      Spritefont aqua_15: -363869148
+      Spritefont aqua_22: 1327048890
+      Spritefont aqua_23: -1656274991
+      Spritefont aqua_1: 126154771
+      Spritefont aqua_14: -513134366
+      Spritefont aqua_20: -1046088542
+      Spritefont aqua_9: 502351245
+      Spritefont aqua_21: 1853327588
+      Spritefont aqua_27: -1588001232
+      Spritefont aqua_11: -1720509020
+      Spritefont aqua_26: -1382875543
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
